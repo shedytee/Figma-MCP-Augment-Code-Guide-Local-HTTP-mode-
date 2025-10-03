@@ -1,4 +1,4 @@
-# Figma-MCP-Augment-Code-Guide-Local-HTTP-mode-
+# Figma MCP + Augment Code Guide (Local HTTP mode)
 Integration of Figma MCP server with Augment Code, using local Figma desktop app
 A step-by-step setup for using Figma’s Dev Mode MCP server via HTTP (http://127.0.0.1:3845/mcp) together with Augment Code in VS Code.
 
